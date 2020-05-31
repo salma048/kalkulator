@@ -1,0 +1,9 @@
+c:\users\one media access\documents\visual studio 2013\Projects\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+c:\users\one media access\documents\visual studio 2013\Projects\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+c:\users\one media access\documents\visual studio 2013\Projects\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+c:\users\one media access\documents\visual studio 2013\Projects\kalkulator\kalkulator\obj\Debug\kalkulator.csprojResolveAssemblyReference.cache
+c:\users\one media access\documents\visual studio 2013\Projects\kalkulator\kalkulator\obj\Debug\kalkulator.Properties.Resources.resources
+c:\users\one media access\documents\visual studio 2013\Projects\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.GenerateResource.Cache
+c:\users\one media access\documents\visual studio 2013\Projects\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+c:\users\one media access\documents\visual studio 2013\Projects\kalkulator\kalkulator\obj\Debug\kalkulator.pdb
+c:\users\one media access\documents\visual studio 2013\Projects\kalkulator\kalkulator\obj\Debug\kalkulator.Form1.resources
